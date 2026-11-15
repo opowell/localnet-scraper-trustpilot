@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Trustpilot",
+      "urlPattern": "trustpilot.com",
+      "searchUrl": "https://www.trustpilot.com/search?query={term}"
+    }
+  ],
+  "file": "trustpilot.js"
+}
